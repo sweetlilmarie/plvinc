@@ -1,0 +1,64 @@
+{
+  "intro": "Project work has run across eight states and five basins. The record includes deep gas development in northwest Louisiana and East Texas, oil-directed drilling in the southern Mississippi counties, stacked Marcellus and Utica programs in Pennsylvania and Ohio, shallow biogenic gas across northern Michigan, and utility-scale renewable siting in eastern Washington.\n\nWhat carries between them is method rather than geography. The counties change and the formations change; the way the work gets done does not.",
+  "states_served": [
+    {
+      "state": "Texas",
+      "note": "Permian Basin, Eagle Ford Shale, Haynesville/Bossier (East Texas), East Texas Basin"
+    },
+    {
+      "state": "Louisiana",
+      "note": "Haynesville Shale, Tuscaloosa Marine Shale, onshore Gulf Coast parishes"
+    },
+    {
+      "state": "Mississippi",
+      "note": "Tuscaloosa Marine Shale, southwest counties, Gulf Coast salt-dome trend"
+    },
+    {
+      "state": "Pennsylvania",
+      "note": "Marcellus Shale, Appalachian Basin"
+    },
+    {
+      "state": "Michigan",
+      "note": "Michigan Basin, Antrim Shale, Northern Michigan plays"
+    },
+    {
+      "state": "Ohio",
+      "note": "Utica Shale, Appalachian Basin, Clinton/Medina formations"
+    },
+    {
+      "state": "Tennessee",
+      "note": "Chattanooga Shale, conventional plays, Gulf Coast extension"
+    },
+    {
+      "state": "Washington",
+      "note": "Solar and renewable energy land acquisition, right-of-way"
+    }
+  ],
+  "project_types": [
+    {
+      "label": "Greenfield leasing programs"
+    },
+    {
+      "label": "A&D due diligence packages"
+    },
+    {
+      "label": "Multi-county title examination"
+    },
+    {
+      "label": "Division order and royalty management"
+    },
+    {
+      "label": "Pipeline and infrastructure right-of-way"
+    },
+    {
+      "label": "Solar and wind lease acquisition"
+    },
+    {
+      "label": "Heirship research and curative work"
+    },
+    {
+      "label": "Mineral and surface ownership reports"
+    }
+  ],
+  "testimonials": []
+}
